@@ -5,6 +5,8 @@ __init__.cpython-36.pyc
 database_setup.cpython-36.pyc
 *.py[cod]
 *$py.class
+__init__.cpython-36.pyc
+database_setup.cpython-36.pyc
 
 # C extensions
 *.so
